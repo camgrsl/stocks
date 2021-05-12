@@ -7,8 +7,6 @@ use Orchestra\Testbench\TestCase as BaseTestCase;
 class TestCase extends BaseTestCase
 {
     /**
-     * Register Pay's Service Providers
-     *
      * @param \Illuminate\Foundation\Application $app
      * @return array
      */
